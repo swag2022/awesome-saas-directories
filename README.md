@@ -10,7 +10,7 @@ A curated list of directories and platforms to launch and promote your SaaS prod
 - [Capterra](https://www.capterra.com/) - Comprehensive software listing and reviews.
 - [GetApp](https://www.getapp.com/) - Discover and compare software tools.
 - [Trustpilot](https://www.trustpilot.com/) - Collect customer reviews to establish trust.
-
+- [BrandSuggest](https://www.brandsuggest.net/) - Discover Top Business Softwares & Service Partners.
 ---
 
 ## 🏅 Specialized SaaS Directories
